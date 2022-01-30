@@ -15,8 +15,9 @@ def lambda_handler(event, context):
 
         dict_data = base64.b64decode(record['data']).decode('utf-8').strip()
         print(dict_data)
+        text, airline, tweet_created, tweet_location, user_timezone = dict_data.split('|')
         
-        sentiment_all = client.detect_sentiment(Text=dict_data, LanguageCode='en')
+        sentiment_all = client.detect_sentiment(Text=text, LanguageCode='en')
         sentiment = sentiment_all['Sentiment']
         print(sentiment)
         positive = sentiment_all['SentimentScore']['Positive']
@@ -25,8 +26,12 @@ def lambda_handler(event, context):
         print(total)
         
         data_record = {
-            'message': dict_data,
+            'message': text,
             'sentiment': sentiment,
+            'airline': airline,
+            'tweet_created': tweet_created,
+            'tweet_location': tweet_location,
+            'user_timezone': user_timezone,
             'total': total
         }
         print(data_record)
