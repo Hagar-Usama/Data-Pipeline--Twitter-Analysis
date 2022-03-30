@@ -1,0 +1,689 @@
+[
+  {
+    "tweet_id": 567588000000000000,
+    "airline": "Delta",
+    "name": "JetBlueNews",
+    "text": "@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Greenfield Daily Reporter http://t.co/LM3opxkxch",
+    "tweet_coord": "",
+    "tweet_created": "16-02-15 23:36",
+    "tweet_location": "USA",
+    "user_timezone": "Sydney"
+  },
+  {
+    "tweet_id": 567590000000000000,
+    "airline": "Delta",
+    "name": "nesi_1992",
+    "text": "@JetBlue is REALLY getting on my nerves !! 😡😡 #nothappy",
+    "tweet_coord": "",
+    "tweet_created": "16-02-15 23:43",
+    "tweet_location": "undecided",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "United",
+    "name": "Jaytolchinsky",
+    "text": "@united I did they did not.  I did submit a complaint on line and never heard back from that - I don't have that ID- you should find it",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:42",
+    "tweet_location": "",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "Delta",
+    "name": "JayPochBaby",
+    "text": "@JetBlue thank you #loyalmosaicmember",
+    "tweet_coord": [
+      40.64661043,
+      -73.776003
+    ],
+    "tweet_created": "19-02-15 19:43",
+    "tweet_location": "Buffalo",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "United",
+    "name": "stephaniefoos",
+    "text": "@united I'm over you. Evry 1st flight I take w/ you is delayed &amp; evry 2nd is on time so its missed evry time. #lastflightofthenight #breakup",
+    "tweet_coord": [
+      40.69482181,
+      -74.17458032
+    ],
+    "tweet_created": "19-02-15 19:43",
+    "tweet_location": "Boston, MA",
+    "user_timezone": "Alaska"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "Delta",
+    "name": "Daryax22",
+    "text": "@JetBlue Washington DC (:",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:43",
+    "tweet_location": "Boston, MA",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "Southwest",
+    "name": "KojiFox",
+    "text": "@SouthwestAir I don't want to be too whiny. We accommodated several passengers whose earlier flight was Cancelled Flightled. Our flight was very long.",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:44",
+    "tweet_location": "New York City",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568617000000000000,
+    "airline": "US Airways",
+    "name": "masonkesner",
+    "text": "@USAirways Flights 890 was the delay, Flight 5136 was my missed connection… Help!",
+    "tweet_coord": [
+      0,
+      0
+    ],
+    "tweet_created": "19-02-15 19:45",
+    "tweet_location": "Arkansas, USA",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568618000000000000,
+    "airline": "United",
+    "name": "SupaZ22",
+    "text": "@united what do you have in mind?",
+    "tweet_coord": [
+      37.6205514,
+      -122.3867929
+    ],
+    "tweet_created": "19-02-15 19:47",
+    "tweet_location": "Chicago, Illinois.",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568618000000000000,
+    "airline": "Southwest",
+    "name": "PeterSanto29",
+    "text": "@SouthwestAir Another delay. Wow",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:48",
+    "tweet_location": "boston, ma",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568619000000000000,
+    "airline": "US Airways",
+    "name": "edgepsychology",
+    "text": "@USAirways my buddies are currently delayed 3.5 hours and counting in DCA on their ways to CAE for a golf week, any compensation? #FlyDelta",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:50",
+    "tweet_location": "Columbia, SC",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568619000000000000,
+    "airline": "US Airways",
+    "name": "dave0911",
+    "text": "@USAirways never flying with you guys again. Extremely disorganized and too many delays.",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:52",
+    "tweet_location": "Long Island",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568619000000000000,
+    "airline": "Delta",
+    "name": "bangerangz",
+    "text": "@JetBlue my flight attendant Angel was awesome. #415 #kudos",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:53",
+    "tweet_location": "",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568620000000000000,
+    "airline": "US Airways",
+    "name": "Allisonjones704",
+    "text": "@USAirways that's the 1st sorry I received from your company. The least you could do is fly us home early at no extra charge.",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:54",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568620000000000000,
+    "airline": "US Airways",
+    "name": "tyfletch",
+    "text": "@USAirways oh great after a 5 hour delay we get to sit on the plane for another hour without it moving.  Flight 1137 has been awful",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:54",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568620000000000000,
+    "airline": "Delta",
+    "name": "PilotFresh",
+    "text": "@JetBlue I'm so ready to see N598JB n N775JB on my Island but on a weekend to capture it",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:56",
+    "tweet_location": "Dubai",
+    "user_timezone": "Central America"
+  },
+  {
+    "tweet_id": 568620000000000000,
+    "airline": "US Airways",
+    "name": "Allisonjones704",
+    "text": "@USAirways I can't even use my return flight home because the change fees you charge are too expensive, forcing me to purchase a new ticket.",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:57",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568621000000000000,
+    "airline": "Delta",
+    "name": "PilotFresh",
+    "text": "@JetBlue look what I capture at Uvf http://t.co/Lj2ZXZN8kG",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:57",
+    "tweet_location": "Dubai",
+    "user_timezone": "Central America"
+  },
+  {
+    "tweet_id": 568621000000000000,
+    "airline": "United",
+    "name": "SupaZ22",
+    "text": "@united any solutions?",
+    "tweet_coord": "",
+    "tweet_created": "19-02-15 19:59",
+    "tweet_location": "Chicago, Illinois.",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568932000000000000,
+    "airline": "Southwest",
+    "name": "jessiebabbi",
+    "text": "@SouthwestAir I wish i would've seen this 4 hours ago!!! I WANTED TO SEE THEM TONIGHT SO BAD!!!! #CRYING",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:35",
+    "tweet_location": "",
+    "user_timezone": "Arizona"
+  },
+  {
+    "tweet_id": 568932000000000000,
+    "airline": "Delta",
+    "name": "JetBlueNews",
+    "text": "@JetBlue Airways Corporation Insider Trading Update - Rock Hill Daily http://t.co/vvzkSMFKVw",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:36",
+    "tweet_location": "USA",
+    "user_timezone": "Sydney"
+  },
+  {
+    "tweet_id": 568932000000000000,
+    "airline": "United",
+    "name": "iamtedking",
+    "text": "@united \"Dear Ted. We don't care about you nor the Mileage Plus Card you pay a lot for. Bye bye. -- United",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:37",
+    "tweet_location": "",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568933000000000000,
+    "airline": "United",
+    "name": "StarksRavings",
+    "text": "@united, if you mean beyond opaque \"maintenance issues\", yes, that would be  basic in customer service which your EWR staff can't manage.",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:38",
+    "tweet_location": "United States",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568933000000000000,
+    "airline": "Delta",
+    "name": "greggweiss",
+    "text": "@JetBlue I DM'd my confirmation code... Thanks again for your help! Mommy, daddy, and kids appreciate it!",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:39",
+    "tweet_location": "Hastings on Hudson, NY",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568933000000000000,
+    "airline": "United",
+    "name": "ferriertv",
+    "text": "@united Thank You",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:39",
+    "tweet_location": "Denver",
+    "user_timezone": "Mountain Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568934000000000000,
+    "airline": "US Airways",
+    "name": "RyanMelton",
+    "text": "@USAirways connection made. Thanks again this week. #daddyshome",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:42",
+    "tweet_location": "Independence, MO",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568935000000000000,
+    "airline": "United",
+    "name": "JoeSchmuck",
+    "text": "Hey @united, this is your job, don't give me the safety spin. This is the same plane that broke on the original flight out. #unitedSucks",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:45",
+    "tweet_location": "San Francisco",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568935000000000000,
+    "airline": "Southwest",
+    "name": "Durgzy77",
+    "text": "@SouthwestAir @dultch97 kid just wants fucking money #scumbag",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:46",
+    "tweet_location": "Winchester | Northend Ma",
+    "user_timezone": "Quito"
+  },
+  {
+    "tweet_id": 568935000000000000,
+    "airline": "United",
+    "name": "KatieJelen",
+    "text": "@united Your \"Loyalty Team\" basically flipped me off via phone, but thanks. Maybe Google \"loyalty\" and get back to me? ^LOL",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:46",
+    "tweet_location": "Los Angeles, CA (via Philly)",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568935000000000000,
+    "airline": "United",
+    "name": "hoozsah",
+    "text": "@united DTV doesnt work, pilots Late Flight, wont let 10yr old fly next 2 me and I paid 4 an upgrade. #unitedsucks",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:49",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568935000000000000,
+    "airline": "US Airways",
+    "name": "jswem25",
+    "text": "@USAirways  2 hours on hold and issue still not resolved. hope to make my flight in 12 hours. for every minute of talk = 20 minutes of hold",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:49",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568936000000000000,
+    "airline": "US Airways",
+    "name": "Shroomcam",
+    "text": "@USAirways yes I did thank you! They did a great job turning the flight in jan !",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:50",
+    "tweet_location": "Orlando",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568936000000000000,
+    "airline": "US Airways",
+    "name": "chrisseifert83",
+    "text": "@USAirways @AmericanAir thought u merged but #USAirways sucks #worstever http://t.co/myNZitCovn",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:51",
+    "tweet_location": "Stamford, Ct",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568937000000000000,
+    "airline": "Southwest",
+    "name": "stacymichael14",
+    "text": "@SouthwestAir  traveling 2bwi nMaryland 2morrw any chance the flight being Cancelled Flightled to inclement weather? Any chance can get earlier flight",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:56",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568937000000000000,
+    "airline": "Delta",
+    "name": "misschris715",
+    "text": "@JetBlue yes! Terra blue chips were my favorite. :)",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:57",
+    "tweet_location": "los angeles, ca",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568938000000000000,
+    "airline": "US Airways",
+    "name": "chrisseifert83",
+    "text": "@USAirways @AmericanAir are u paying incedentals? #noworstairline",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:57",
+    "tweet_location": "Stamford, Ct",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568938000000000000,
+    "airline": "US Airways",
+    "name": "GREATNESSEOA",
+    "text": "@USAirways how can I make a purchase, you take the money but I don't have a reservation...Explain",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:58",
+    "tweet_location": "McKinney TX",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568938000000000000,
+    "airline": "US Airways",
+    "name": "kimlynam2",
+    "text": "@USAirways Now the next plane had a broken seat!  My row!  Another hour delay!  #mad",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:58",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568938000000000000,
+    "airline": "Southwest",
+    "name": "notebookgrail",
+    "text": "@SouthwestAir So the upcoming RR changes/Deval is trying to tell me not to fly southwest anymore because i am loyal so far. i get it.",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 16:59",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568939000000000000,
+    "airline": "United",
+    "name": "wisemana",
+    "text": "@united &amp; on top of no free tv on the int’l leg, now I’m sitting on the Tarmac in Houston, 70 min past departure w/ another hr plus to go",
+    "tweet_coord": [
+      29.98384194,
+      -95.33664018
+    ],
+    "tweet_created": "20-02-15 17:01",
+    "tweet_location": "washington, dc",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568940000000000000,
+    "airline": "Virgin America",
+    "name": "Alex_Ricardo",
+    "text": "@VirginAmerica there is something wrong with you website in Safari iPhone",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:07",
+    "tweet_location": "Montreal",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568940000000000000,
+    "airline": "US Airways",
+    "name": "tluecke12",
+    "text": "@USAirways / @AmericanAir are incompetent.",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:08",
+    "tweet_location": "Chicago",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 568940000000000000,
+    "airline": "US Airways",
+    "name": "masonkesner",
+    "text": "@USAirways Just to follow up here is my experience: http://t.co/WJIiGZtiwg",
+    "tweet_coord": [
+      0,
+      0
+    ],
+    "tweet_created": "20-02-15 17:08",
+    "tweet_location": "Arkansas, USA",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568940000000000000,
+    "airline": "Delta",
+    "name": "JordantheJew",
+    "text": "@JetBlue thanks for making me miss an important dinner tonight. 2 hr delay and now 20 min on Tarmac... #worst",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:08",
+    "tweet_location": "New York, NY",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568941000000000000,
+    "airline": "United",
+    "name": "wisemana",
+    "text": "@United can you let us out of the gate now. UA1157",
+    "tweet_coord": [
+      0,
+      0
+    ],
+    "tweet_created": "20-02-15 17:09",
+    "tweet_location": "washington, dc",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568941000000000000,
+    "airline": "Delta",
+    "name": "SassmasterJosh",
+    "text": "@JetBlue who do you think is gonna win Mayweather or Pacquiao?",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:10",
+    "tweet_location": ".",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 568941000000000000,
+    "airline": "Southwest",
+    "name": "fishie1199",
+    "text": "@SouthwestAir you are lucky to have people like Annamarie and Norris at BWI. I hope they get recognized for excellent cust. service",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:11",
+    "tweet_location": "",
+    "user_timezone": "Quito"
+  },
+  {
+    "tweet_id": 568941000000000000,
+    "airline": "US Airways",
+    "name": "chrisseifert83",
+    "text": "@USAirways @AmericanAir u are the worst airline ever figure out the merger #dontmakemegooutside",
+    "tweet_coord": "",
+    "tweet_created": "20-02-15 17:11",
+    "tweet_location": "Stamford, Ct",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "Kaywillsmith",
+    "text": "@AmericanAir pls help. This is seriously beyond ridiculous.",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:11",
+    "tweet_location": "The City of Big Shoulders",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "Delta",
+    "name": "ThatJasonEaton",
+    "text": "@JetBlue being told by this guy that he will not help us sit next to our 5 and 8 year old on the flight. #jetblue http://t.co/49FLbgzZkd",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:11",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "chadkirchner",
+    "text": "@AmericanAir I have an issue that requires a bit more than a tweet to explain, do y’all have an email?",
+    "tweet_coord": [
+      0,
+      0
+    ],
+    "tweet_created": "22-02-15 14:11",
+    "tweet_location": "Tiffin, Ohio",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "farfalla818",
+    "text": "@AmericanAir is there not an email address I can send my issue to? you guys screwed up and rebooked my flight to the wrong day!  please help",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:12",
+    "tweet_location": "Plano, Texas",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "5amantha_marie",
+    "text": "@AmericanAir Worst airline ever. We have been stranded for 24 hours because of your 7 hour delay with flight 104 last night.",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:12",
+    "tweet_location": "",
+    "user_timezone": "Amsterdam"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "Delta",
+    "name": "ThatJasonEaton",
+    "text": "@JetBlue a 5 year old can't sit alone on a flight. This is absurd. And this guy is a dick. #jetblue http://t.co/2HXsDP0ha4",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:12",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "United",
+    "name": "D_WaYnE_01",
+    "text": "@united I do not see where it talks about military baggage fees. Can you please guide me. Thanks",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:13",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "Delta",
+    "name": "volition",
+    "text": "@JetBlue you've let me down. 2:15 delay at JFK because of inbound flight from Syracuse, really? #ishouldhavedriven",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:13",
+    "tweet_location": "breukelen, ny",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "United",
+    "name": "baj2081",
+    "text": "@united thanks for causing us to miss our connection and now a 6hour delay #flydeltanexttime",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:13",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "Delta",
+    "name": "JunkyardFiegs",
+    "text": "@JetBlue Third straight time that my flight has been delayed flying with you guys. This will be my last trip with you.",
+    "tweet_coord": [
+      42.40805407,
+      -88.62699707
+    ],
+    "tweet_created": "22-02-15 14:13",
+    "tweet_location": "",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "CarlosMourino",
+    "text": "@AmericanAir After 3 days NO BAGs amazing the way that you neglect customers",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:14",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "US Airways",
+    "name": "rossj987",
+    "text": "@USAirways so apparently all of your computers crashed at BWI?  Any update on when flights will be moving?",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:14",
+    "tweet_location": "Washington, D.C.",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569621000000000000,
+    "airline": "American",
+    "name": "jmgscott",
+    "text": "@AmericanAir 1491 DEN -&gt; DFW. We don't want to be ticketed on a new flight, just refunded for our Cancelled Flighted flight.",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 14:14",
+    "tweet_location": "Dallas, TX",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569643000000000000,
+    "airline": "American",
+    "name": "KellyOlexa",
+    "text": "@AmericanAir I've been trying to call to cxl a reservation for tomorrow, due to needing surgery this week - cannot get through?",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 15:42",
+    "tweet_location": "Chicago, IL",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569643000000000000,
+    "airline": "American",
+    "name": "sarrraright",
+    "text": "#nothelpful MT @AmericanAir: Our call volume is extremely high today. Our apologies. Please continue contacting Reservations for assistance.",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 15:42",
+    "tweet_location": "Cathedral Heights",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569643000000000000,
+    "airline": "American",
+    "name": "letyak",
+    "text": "@AmericanAir United needs our ticket number since you rebooked us and you gave the incorrect ticket number now we can't check in #help",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 15:42",
+    "tweet_location": "Philadelphia, PA",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569643000000000000,
+    "airline": "American",
+    "name": "andrearothcraig",
+    "text": "@AmericanAir @sa_craig no, not helped one bit. actually ended up driving home due to extreme disorganization and lack of communication.",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 15:42",
+    "tweet_location": "College Station, TX",
+    "user_timezone": "Central Time (US & Canada)"
+  },
+  {
+    "tweet_id": 569644000000000000,
+    "airline": "American",
+    "name": "MattWalter13",
+    "text": "@AmericanAir 1416 Cancelled Flightled? Can't get out for two days? No explanation?",
+    "tweet_coord": "",
+    "tweet_created": "22-02-15 15:43",
+    "tweet_location": "",
+    "user_timezone": ""
+  }
+]
