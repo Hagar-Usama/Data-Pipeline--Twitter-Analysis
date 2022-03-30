@@ -20,7 +20,7 @@
 ---
 
 ## Introduction
-This projects do sentiment analysis for some tweets concering airports to check the satisfaction of the clients.
+This project does a sentiment analysis using AWS for some tweets concering airports to check the clients satisfaction.
 
 ---
 
