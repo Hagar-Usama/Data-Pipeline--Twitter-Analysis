@@ -20,13 +20,13 @@
 ---
 
 ## Introduction
-This project does a sentiment analysis using AWS for some tweets concering airports to check the clients satisfaction.
+
+This project conducts sentiment analysis using AWS on tweets related to airports to assess customer satisfaction.
 
 ---
 
 ## Technologies
 
-AWS is heavily used here for the analysis.
 - AWS cloud9
 - Amazon Kinesis Data firehose
 - AWS lambda
@@ -42,20 +42,19 @@ AWS is heavily used here for the analysis.
 ---
 
 ## How it works
-- For the sake of simplicity, we simulate the flow of tweets instead of having a dev account on twitter. Please find attached `Data input` folder.
-- Using AWS Cloud9 IDE, we send some tweets every specific period of time (we can do this based on some distribution) to kinesis firehose
-- Firehose delivers the data to Lambda to send it to Amazon comprehend for sentiment analysis (assuming all the tweets are in English)
-- The sentiment analysis is returned and sent to elasticSearch (openSearch) for further analysis and visualization
-
+- For the sake of simplicity, the flow of tweets is simulated instead of using a developer account on Twitter. The attached 'Data Input' folder can be found for reference.
+- Using the AWS Cloud9 IDE, tweets are sent to Kinesis Firehose at specific intervals (based on a specified distribution).
+- The data is delivered to Lambda by Firehose, where it is then sent to Amazon Comprehend for sentiment analysis (assuming all the tweets are in English).
+- The results of the sentiment analysis are returned and sent to OpenSearch (formerly known as Elasticsearch) for further analysis and visualization.
 
 ---
 
 
 ## Notes
-- This architecture is for eductional purposes. You may notice it is not the perfect architecture.
-- We can pass the tweets to Amazon translate before Amazon comprehend to make sure all the tweets are in English
-- Other Services are available for analysis and visualization, such as Athena and Quicksight. Yet, I prefered elasticSearch since it is supported by Kinesis Firehose
-- Please find attached the code for cloud9 and Lambda
+- This architecture is intended for educational purposes, and it may not represent the optimal solution.
+- Prior to analysis with Amazon Comprehend, the tweets can be passed to Amazon Translate to ensure they are all in English.
+- While other services like Athena and Quicksight are available for analysis and visualization, I have chosen to use OpenSearch due to its support by Kinesis Firehose.
+- The code for Cloud9 and Lambda is attached for your reference.
 
 
 ---
